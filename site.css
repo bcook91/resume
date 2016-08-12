@@ -1,0 +1,35 @@
+.left-col{
+    background-color:#555555;
+    color:white;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    font-type
+}
+.right-col{
+    padding-bottom:20px;
+    padding-left: 50px;
+}
+img.img-circle{
+    object-fit: cover;
+}
+
+.left-col-title{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+.title{
+  background-color: #555555;
+  color: white;
+  font-weight: 600;
+  font-variant: small-caps;
+  margin-left: -50px;
+  padding-left: 15px;
+  max-width: 200px;
+}
+
